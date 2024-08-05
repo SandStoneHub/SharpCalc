@@ -1,6 +1,6 @@
 # SharpCalc
 
-### git commit -m "first commit"
+### Простой калькулятор на C#
 
 > by Danayasi
 
